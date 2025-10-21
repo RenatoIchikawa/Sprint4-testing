@@ -4,4 +4,4 @@ Link Azure Boards = https://dev.azure.com/rm99242/Wolace%20Investment/_testManag
 
 
 
-Link do vídeo = https://youtube.com/shorts/tv8VgBWiy1k?si=pQAfgOtcy-ZsSNgS
+Link do vídeo = https://youtu.be/UzuGsRh7y7Y?si=rz1R71_xQDwHCGoE
